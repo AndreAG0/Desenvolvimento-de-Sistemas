@@ -1,3 +1,7 @@
+''' 
+Andre Galdino Arruda
+RA : 1700619
+'''
 n = []
 def subs(var):
     for x in range(0,20):
