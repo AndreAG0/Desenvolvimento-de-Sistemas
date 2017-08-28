@@ -1,3 +1,8 @@
+'''
+Andre Galdino Arruda
+RA: 1700619
+'''
+
 arquivo = open("arquivo1.txt", "w")
 
 arquivo.write('Qualquer Coisa')
