@@ -1,3 +1,8 @@
+'''
+Andre Galdino Arruda
+RA : 1700619
+'''
+
 n1 = []
 def subs(var):
     if var[x] >= 0:
