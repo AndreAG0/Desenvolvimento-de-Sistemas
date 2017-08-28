@@ -1,3 +1,8 @@
+'''
+Andre Galdino Arruda
+RA: 1700619
+'''
+
 arquivo = open('texto.txt', 'w')
 arquivo.write("ACME Inc.               Uso do espaço em disco pelos usuários.\n")
 arquivo.write("--------------------------------------------------------------\n")
